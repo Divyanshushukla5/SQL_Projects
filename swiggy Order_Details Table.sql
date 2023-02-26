@@ -1,0 +1,1 @@
+SELECT * FROM swiggy.order_details;
